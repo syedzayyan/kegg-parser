@@ -1,9 +1,3 @@
-# KEGGX
+# KEGG Parser
 
-Python package for manipulation and visualization of KEGG pathways.
-
-See [notebooks/example.ipynb](https://github.com/iamjli/KEGGX/blob/master/notebooks/example.ipynb).
-
-# Install
-
-`pip install keggx`
+The KEGG Parser package is built to parse KEGG files into NetworkX Objects. The package is forked from (KEGGx)[https://github.com/iamjli/keggx], with updated functions and fixing breaking changes on dependencies.
