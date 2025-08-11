@@ -1,0 +1,292 @@
+ENTRY       hsa04814                    Pathway
+NAME        Motor proteins - Homo sapiens (human)
+CLASS       Cellular Processes; Cell motility
+PATHWAY_MAP hsa04814  Motor proteins
+DRUG        D12804  Nelutroctiv (USAN/INN)
+            D12902  Sevasemten (USAN/INN)
+            D12949  Delocamten (USAN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10112  KIF20A; kinesin family member 20A [KO:K10402]
+            10120  ACTR1B; actin related protein 1B [KO:K16575]
+            10121  ACTR1A; actin related protein 1A [KO:K16575]
+            10126  DNAL4; dynein axonemal light chain 4 [KO:K10412]
+            10376  TUBA1B; tubulin alpha 1b [KO:K07374]
+            10381  TUBB3; tubulin beta 3 class III [KO:K07375]
+            10382  TUBB4A; tubulin beta 4A class IVa [KO:K07375]
+            10383  TUBB4B; tubulin beta 4B class IVb [KO:K07375]
+            103910  MYL12B; myosin light chain 12B [KO:K12757]
+            10398  MYL9; myosin light chain 9 [KO:K12755]
+            10540  DCTN2; dynactin subunit 2 [KO:K10424]
+            1062  CENPE; centromere protein E [KO:K11498]
+            10627  MYL12A; myosin light chain 12A [KO:K12757]
+            10671  DCTN6; dynactin subunit 6 [KO:K10428]
+            10749  KIF1C; kinesin family member 1C [KO:K10392]
+            11004  KIF2C; kinesin family member 2C [KO:K10393]
+            11127  KIF3A; kinesin family member 3A [KO:K10394]
+            11258  DCTN3; dynactin subunit 3 [KO:K10425]
+            112714  TUBA3E; tubulin alpha 3e [KO:K07374]
+            113220  KIF12; kinesin family member 12 [KO:K10399]
+            113457  TUBA3D; tubulin alpha 3d [KO:K07374]
+            124602  KIF19; kinesin family member 19 [KO:K26157]
+            124908013  [KO:K07375]
+            124908015  [KO:K07375]
+            124908041  [KO:K07375]
+            126820  DNAI3; dynein axonemal intermediate chain 3 [KO:K24722]
+            127602  DNAH14; dynein axonemal heavy chain 14 [KO:K10408]
+            140465  MYL6B; myosin light chain 6B [KO:K12751]
+            140469  MYO3B; myosin IIIB [KO:K08834] [EC:2.7.11.1]
+            140735  DYNLL2; dynein light chain LC8-type 2 [KO:K10418]
+            146439  BICDL2; BICD family like cargo adaptor 2 [KO:K16756]
+            146754  DNAH2; dynein axonemal heavy chain 2 [KO:K10408]
+            146909  KIF18B; kinesin family member 18B [KO:K26156]
+            147700  KLC3; kinesin light chain 3 [KO:K10407]
+            1639  DCTN1; dynactin subunit 1 [KO:K04648]
+            1767  DNAH5; dynein axonemal heavy chain 5 [KO:K10408]
+            1768  DNAH6; dynein axonemal heavy chain 6 [KO:K10408]
+            1769  DNAH8; dynein axonemal heavy chain 8 [KO:K10408]
+            1770  DNAH9; dynein axonemal heavy chain 9 [KO:K10408]
+            1778  DYNC1H1; dynein cytoplasmic 1 heavy chain 1 [KO:K10413]
+            1780  DYNC1I1; dynein cytoplasmic 1 intermediate chain 1 [KO:K10415]
+            1781  DYNC1I2; dynein cytoplasmic 1 intermediate chain 2 [KO:K10415]
+            1783  DYNC1LI2; dynein cytoplasmic 1 light intermediate chain 2 [KO:K10416]
+            196385  DNAH10; dynein axonemal heavy chain 10 [KO:K10408]
+            200132  DYNLT5; dynein light chain Tctex-type family member 5 [KO:K25421]
+            201625  DNAH12; dynein axonemal heavy chain 12 [KO:K10408]
+            203068  TUBB; tubulin beta class I [KO:K07375]
+            221458  KIF6; kinesin family member 6 [KO:K10397]
+            22920  KIFAP3; kinesin associated protein 3 [KO:K25388]
+            22989  MYH15; myosin heavy chain 15 [KO:K24220]
+            23026  MYO16; myosin XVI [KO:K17481]
+            23046  KIF21B; kinesin family member 21B [KO:K24185]
+            23095  KIF1B; kinesin family member 1B [KO:K10392]
+            23303  KIF13B; kinesin family member 13B [KO:K17914]
+            24137  KIF4A; kinesin family member 4A [KO:K10395]
+            25981  DNAH1; dynein axonemal heavy chain 1 [KO:K10408]
+            260334  TUBB8B; tubulin beta 8B [KO:K07375]
+            26153  KIF26A; kinesin family member 26A [KO:K10404]
+            27019  DNAI1; dynein axonemal intermediate chain 1 [KO:K10409]
+            27175  TUBG2; tubulin gamma 2 [KO:K10389]
+            283446  MYO1H; myosin IH [KO:K10356]
+            285643  KIF4B; kinesin family member 4B [KO:K10395]
+            29895  MYL11; myosin light chain 11 [KO:K12758]
+            343521  DYNLT4; dynein light chain Tctex-type 4 [KO:K25420]
+            347240  KIF24; kinesin family member 24 [KO:K10393]
+            347688  TUBB8; tubulin beta 8 class VIII [KO:K07375]
+            347733  TUBB2B; tubulin beta 2B class IIb [KO:K07375]
+            374654  KIF7; kinesin family member 7 [KO:K18806]
+            3796  KIF2A; kinesin family member 2A [KO:K10393]
+            3797  KIF3C; kinesin family member 3C [KO:K20197]
+            3798  KIF5A; kinesin family member 5A [KO:K10396]
+            3799  KIF5B; kinesin family member 5B [KO:K10396]
+            3800  KIF5C; kinesin family member 5C [KO:K10396]
+            3801  KIFC3; kinesin family member C3 [KO:K10406]
+            3831  KLC1; kinesin light chain 1 [KO:K10407]
+            3832  KIF11; kinesin family member 11 [KO:K10398]
+            3833  KIFC1; kinesin family member C1 [KO:K10405]
+            3834  KIF25; kinesin family member 25 [KO:K18627]
+            3835  KIF22; kinesin family member 22 [KO:K10403]
+            399687  MYO18A; myosin XVIIIA [KO:K10362]
+            4430  MYO1B; myosin IB [KO:K10356]
+            4542  MYO1F; myosin IF [KO:K10356]
+            4619  MYH1; myosin heavy chain 1 [KO:K24220]
+            4620  MYH2; myosin heavy chain 2 [KO:K24220]
+            4621  MYH3; myosin heavy chain 3 [KO:K24220]
+            4622  MYH4; myosin heavy chain 4 [KO:K24220]
+            4624  MYH6; myosin heavy chain 6 [KO:K17751]
+            4625  MYH7; myosin heavy chain 7 [KO:K17751]
+            4626  MYH8; myosin heavy chain 8 [KO:K24220]
+            4627  MYH9; myosin heavy chain 9 [KO:K10352]
+            4628  MYH10; myosin heavy chain 10 [KO:K10352]
+            4629  MYH11; myosin heavy chain 11 [KO:K10352]
+            4632  MYL1; myosin light chain 1 [KO:K05738]
+            4633  MYL2; myosin light chain 2 [KO:K10351]
+            4634  MYL3; myosin light chain 3 [KO:K12749]
+            4635  MYL4; myosin light chain 4 [KO:K12750]
+            4636  MYL5; myosin light chain 5 [KO:K12753]
+            4637  MYL6; myosin light chain 6 [KO:K12751]
+            4640  MYO1A; myosin IA [KO:K10356]
+            4641  MYO1C; myosin IC [KO:K10356]
+            4642  MYO1D; myosin ID [KO:K10356]
+            4643  MYO1E; myosin IE [KO:K10356]
+            4644  MYO5A; myosin VA [KO:K10357]
+            4645  MYO5B; myosin VB [KO:K10357]
+            4646  MYO6; myosin VI [KO:K10358]
+            4647  MYO7A; myosin VIIA [KO:K10359]
+            4648  MYO7B; myosin VIIB [KO:K21868]
+            4649  MYO9A; myosin IXA [KO:K10360]
+            4650  MYO9B; myosin IXB [KO:K10360]
+            4651  MYO10; myosin X [KO:K12559]
+            51143  DYNC1LI1; dynein cytoplasmic 1 light intermediate chain 1 [KO:K10416]
+            51164  DCTN4; dynactin subunit 4 [KO:K10426]
+            51168  MYO15A; myosin XVA [KO:K10361]
+            51174  TUBD1; tubulin delta 1 [KO:K10390]
+            51175  TUBE1; tubulin epsilon 1 [KO:K10391]
+            51626  DYNC2LI1; dynein cytoplasmic 2 light intermediate chain 1 [KO:K10417]
+            51807  TUBA8; tubulin alpha 8 [KO:K07374]
+            53904  MYO3A; myosin IIIA [KO:K08834] [EC:2.7.11.1]
+            547  KIF1A; kinesin family member 1A [KO:K10392]
+            55083  KIF26B; kinesin family member 26B [KO:K10404]
+            55567  DNAH3; dynein axonemal heavy chain 3 [KO:K10408]
+            55582  KIF27; kinesin family member 27 [KO:K24186]
+            55605  KIF21A; kinesin family member 21A [KO:K24185]
+            55614  KIF16B; kinesin family member 16B [KO:K17916]
+            55860  ACTR10; actin related protein 10 [KO:K16576]
+            55930  MYO5C; myosin VC [KO:K10357]
+            56171  DNAH7; dynein axonemal heavy chain 7 [KO:K10408]
+            56992  KIF15; kinesin family member 15 [KO:K10400]
+            57519  STARD9; StAR related lipid transfer domain containing 9 [KO:K16491]
+            57576  KIF17; kinesin family member 17 [KO:K20198]
+            57644  MYH7B; myosin heavy chain 7B [KO:K24220]
+            58  ACTA1; actin alpha 1, skeletal muscle [KO:K10354]
+            58498  MYL7; myosin light chain 7 [KO:K12754]
+            59  ACTA2; actin alpha 2, smooth muscle [KO:K12313]
+            60  ACTB; actin beta [KO:K05692]
+            63971  KIF13A; kinesin family member 13A [KO:K17914]
+            64005  MYO1G; myosin IG [KO:K10356]
+            64147  KIF9; kinesin family member 9 [KO:K10397]
+            64446  DNAI2; dynein axonemal intermediate chain 2 [KO:K11143]
+            64837  KLC2; kinesin light chain 2 [KO:K10407]
+            6990  DYNLT3; dynein light chain Tctex-type 3 [KO:K10420]
+            6991  DYNLT2; dynein light chain Tctex-type 2 [KO:K25419]
+            6993  DYNLT1; dynein light chain Tctex-type 1 [KO:K10420]
+            70  ACTC1; actin alpha cardiac muscle 1 [KO:K12314]
+            71  ACTG1; actin gamma 1 [KO:K05692]
+            7125  TNNC2; troponin C2, fast skeletal type [KO:K12042]
+            7134  TNNC1; troponin C1, slow skeletal and cardiac type [KO:K05865]
+            7135  TNNI1; troponin I1, slow skeletal type [KO:K10371]
+            7136  TNNI2; troponin I2, fast skeletal type [KO:K12043]
+            7137  TNNI3; troponin I3, cardiac type [KO:K12044]
+            7138  TNNT1; troponin T1, slow skeletal type [KO:K10372]
+            7139  TNNT2; troponin T2, cardiac type [KO:K12045]
+            7140  TNNT3; troponin T3, fast skeletal type [KO:K12046]
+            7168  TPM1; tropomyosin 1 [KO:K10373]
+            7169  TPM2; tropomyosin 2 [KO:K10374]
+            7170  TPM3; tropomyosin 3 [KO:K09290]
+            7171  TPM4; tropomyosin 4 [KO:K10375]
+            72  ACTG2; actin gamma 2, smooth muscle [KO:K12315]
+            7277  TUBA4A; tubulin alpha 4a [KO:K07374]
+            7278  TUBA3C; tubulin alpha 3c [KO:K07374]
+            7280  TUBB2A; tubulin beta 2A class IIa [KO:K07375]
+            7283  TUBG1; tubulin gamma 1 [KO:K10389]
+            7802  DNALI1; dynein axonemal light intermediate chain 1 [KO:K10410]
+            7846  TUBA1A; tubulin alpha 1a [KO:K07374]
+            79659  DYNC2H1; dynein cytoplasmic 2 heavy chain 1 [KO:K10414]
+            79784  MYH14; myosin heavy chain 14 [KO:K10352]
+            79819  DNAI4; dynein axonemal intermediate chain 4 [KO:K24723]
+            79861  TUBAL3; tubulin alpha like 3 [KO:K07374]
+            80022  MYO15B; myosin XVB [KO:K10361]
+            80179  MYO19; myosin XIX [KO:K25838]
+            81027  TUBB1; tubulin beta 1 class VI [KO:K07375]
+            81930  KIF18A; kinesin family member 18A [KO:K10401]
+            829  CAPZA1; capping actin protein of muscle Z-line subunit alpha 1 [KO:K10364]
+            830  CAPZA2; capping actin protein of muscle Z-line subunit alpha 2 [KO:K10364]
+            832  CAPZB; capping actin protein of muscle Z-line subunit beta [KO:K10365]
+            83544  DNAL1; dynein axonemal light chain 1 [KO:K10411]
+            83657  DYNLRB2; dynein light chain roadblock-type 2 [KO:K10419]
+            83658  DYNLRB1; dynein light chain roadblock-type 1 [KO:K10419]
+            84376  HOOK3; hook microtubule tethering protein 3 [KO:K16536]
+            84516  DCTN5; dynactin subunit 5 [KO:K10427]
+            84617  TUBB6; tubulin beta 6 class V [KO:K07375]
+            84643  KIF2B; kinesin family member 2B [KO:K10393]
+            84700  MYO18B; myosin XVIIIB [KO:K10362]
+            84790  TUBA1C; tubulin alpha 1c [KO:K07374]
+            8632  DNAH17; dynein axonemal heavy chain 17 [KO:K10408]
+            8655  DYNLL1; dynein light chain LC8-type 1 [KO:K10418]
+            8701  DNAH11; dynein axonemal heavy chain 11 [KO:K10408]
+            8735  MYH13; myosin heavy chain 13 [KO:K24220]
+            89953  KLC4; kinesin light chain 4 [KO:K10407]
+            90990  KIFC2; kinesin family member C2 [KO:K10406]
+            92558  BICDL1; BICD family like cargo adaptor 1 [KO:K16756]
+            93408  MYL10; myosin light chain 10 [KO:K12756]
+            93661  CAPZA3; capping actin protein of muscle Z-line subunit alpha 3 [KO:K10364]
+            9371  KIF3B; kinesin family member 3B [KO:K20196]
+            9493  KIF23; kinesin family member 23 [KO:K17387]
+            9585  KIF20B; kinesin family member 20B [KO:K10402]
+            9928  KIF14; kinesin family member 14 [KO:K17915]
+REFERENCE   PMID:21092854
+  AUTHORS   Hirokawa N, Niwa S, Tanaka Y
+  TITLE     Molecular motors in neurons: transport mechanisms and roles in brain function, development, and disease.
+  JOURNAL   Neuron 68:610-38 (2010)
+            DOI:10.1016/j.neuron.2010.09.039
+REFERENCE   PMID:25470043 (PDB:4RH7)
+  AUTHORS   Schmidt H, Zalyte R, Urnavicius L, Carter AP
+  TITLE     Structure of human cytoplasmic dynein-2 primed for its power stroke.
+  JOURNAL   Nature 518:435-438 (2015)
+            DOI:10.1038/nature14023
+REFERENCE   PMID:22398446 (PDB:3VKG 3VKH)
+  AUTHORS   Kon T, Oyama T, Shimo-Kon R, Imamula K, Shima T, Sutoh K, Kurisu G
+  TITLE     The 2.8 A crystal structure of the dynein motor domain.
+  JOURNAL   Nature 484:345-50 (2012)
+            DOI:10.1038/nature10955
+REFERENCE   PMID:22997337 (PDB:3J1T 3J1U)
+  AUTHORS   Redwine WB, Hernandez-Lopez R, Zou S, Huang J, Reck-Peterson SL, Leschziner AE
+  TITLE     Structural basis for microtubule binding and release by dynein.
+  JOURNAL   Science 337:1532-1536 (2012)
+            DOI:10.1126/science.1224151
+REFERENCE   PMID:26410600
+  AUTHORS   Gibbs KL, Greensmith L, Schiavo G
+  TITLE     Regulation of Axonal Transport by Protein Kinases.
+  JOURNAL   Trends Biochem Sci 40:597-610 (2015)
+            DOI:10.1016/j.tibs.2015.08.003
+REFERENCE   PMID:28602352 (PDB:5NUG 5NVS 5NVU 5NW4)
+  AUTHORS   Zhang K, Foster HE, Rondelet A, Lacey SE, Bahi-Buisson N, Bird AW, Carter AP
+  TITLE     Cryo-EM Reveals How Human Cytoplasmic Dynein Is Auto-inhibited and Activated.
+  JOURNAL   Cell 169:1303-1314.e18 (2017)
+            DOI:10.1016/j.cell.2017.05.025
+REFERENCE   PMID:25814576 (PDB:5ADX 5AFR 5AFU)
+  AUTHORS   Urnavicius L, Zhang K, Diamant AG, Motz C, Schlager MA, Yu M, Patel NA, Robinson CV, Carter AP
+  TITLE     The structure of the dynactin complex and its interaction with dynein.
+  JOURNAL   Science 347:1441-1446 (2015)
+            DOI:10.1126/science.aaa4080
+REFERENCE   PMID:29420470 (PDB:5OWO 6F1T 6F1U 6F1V 6F1Y 6F1Z 6F38 6F3A)
+  AUTHORS   Urnavicius L, Lau CK, Elshenawy MM, Morales-Rios E, Motz C, Yildiz A, Carter AP
+  TITLE     Cryo-EM shows how dynactin recruits two dyneins for faster movement.
+  JOURNAL   Nature 554:202-206 (2018)
+            DOI:10.1038/nature25462
+REFERENCE   PMID:29662141
+  AUTHORS   Reck-Peterson SL, Redwine WB, Vale RD, Carter AP
+  TITLE     The cytoplasmic dynein transport machinery and its many cargoes.
+  JOURNAL   Nat Rev Mol Cell Biol 19:382-398 (2018)
+            DOI:10.1038/s41580-018-0004-3
+REFERENCE   PMID:23434508 (PDB:3J2U)
+  AUTHORS   Asenjo AB, Chatterjee C, Tan D, DePaoli V, Rice WJ, Diaz-Avalos R, Silvestry M, Sosa H
+  TITLE     Structural model for tubulin recognition and deformation by kinesin-13 microtubule depolymerases.
+  JOURNAL   Cell Rep 3:759-68 (2013)
+            DOI:10.1016/j.celrep.2013.01.030
+REFERENCE   PMID:10338210 (PDB:1B7T)
+  AUTHORS   Houdusse A, Kalabokis VN, Himmel D, Szent-Gyorgyi AG, Cohen C
+  TITLE     Atomic structure of scallop myosin subfragment S1 complexed with MgADP: a novel conformation of the myosin head.
+  JOURNAL   Cell 97:459-70 (1999)
+            DOI:10.1016/s0092-8674(00)80756-4
+REFERENCE   PMID:9428521 (PDB:3KIN)
+  AUTHORS   Kozielski F, Sack S, Marx A, Thormahlen M, Schonbrunn E, Biou V, Thompson A, Mandelkow EM, Mandelkow E
+  TITLE     The crystal structure of dimeric kinesin and implications for microtubule-dependent motility.
+  JOURNAL   Cell 91:985-94 (1997)
+            DOI:10.1016/s0092-8674(00)80489-4
+REFERENCE   PMID:8316857 (PDB:2MYS)
+  AUTHORS   Rayment I, Rypniewski WR, Schmidt-Base K, Smith R, Tomchick DR, Benning MM, Winkelmann DA, Wesenberg G, Holden HM
+  TITLE     Three-dimensional structure of myosin subfragment-1: a molecular motor.
+  JOURNAL   Science 261:50-8 (1993)
+            DOI:10.1126/science.8316857
+REFERENCE   PMID:20428469
+  AUTHORS   Parker D, Bryant Z, Delp SL
+  TITLE     Coarse-Grained Structural Modeling of Molecular Motors Using Multibody Dynamics.
+  JOURNAL   Cell Mol Bioeng 2:366-374 (2009)
+            DOI:10.1007/s12195-009-0084-4
+REFERENCE   PMID:21314430
+  AUTHORS   Dominguez R, Holmes KC
+  TITLE     Actin structure and function.
+  JOURNAL   Annu Rev Biophys 40:169-86 (2011)
+            DOI:10.1146/annurev-biophys-042910-155359
+REFERENCE   PMID:31919429 (PDB:6KN7 6KN8)
+  AUTHORS   Yamada Y, Namba K, Fujii T
+  TITLE     Cardiac muscle thin filament structures reveal calcium regulatory mechanism.
+  JOURNAL   Nat Commun 11:153 (2020)
+            DOI:10.1038/s41467-019-14008-1
+REFERENCE   PMID:33912943
+  AUTHORS   Kruppa AJ, Buss F
+  TITLE     Motor proteins at the mitochondria-cytoskeleton interface.
+  JOURNAL   J Cell Sci 134:239092 (2021)
+            DOI:10.1242/jcs.226084
+KO_PATHWAY  ko04814
+///

@@ -1,0 +1,104 @@
+ENTRY       hsa03272                    Pathway
+NAME        Virion - Hepatitis viruses - Homo sapiens (human)
+CLASS       Genetic Information Processing; Information processing in viruses
+PATHWAY_MAP hsa03272  Virion - Hepatitis viruses
+DBLINKS     PDB: 1QGT 3KXS 1A92 7T6X 4QPG 3IYO
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        100132463  CLDN24; claudin 24 [KO:K06087]
+            10015  PDCD6IP; programmed cell death 6 interacting protein [KO:K12200]
+            100288814  CLDN34; claudin 34 [KO:K06087]
+            100506658  OCLN; occludin [KO:K06088]
+            10618  TGOLN2; trans-golgi network protein 2 [KO:K27870]
+            10686  CLDN16; claudin 16 [KO:K06087]
+            128866  CHMP4B; charged multivesicular body protein 4B [KO:K12194]
+            1364  CLDN4; claudin 4 [KO:K06087]
+            1365  CLDN3; claudin 3 [KO:K06087]
+            1366  CLDN7; claudin 7 [KO:K06087]
+            137075  CLDN23; claudin 23 [KO:K06087]
+            149461  CLDN19; claudin 19 [KO:K06087]
+            1803  DPP4; dipeptidyl peptidase 4 [KO:K01278] [EC:3.4.14.5]
+            1956  EGFR; epidermal growth factor receptor [KO:K04361] [EC:2.7.10.1]
+            23562  CLDN14; claudin 14 [KO:K06087]
+            24146  CLDN15; claudin 15 [KO:K06087]
+            26285  CLDN17; claudin 17 [KO:K06087]
+            27183  VPS4A; vacuolar protein sorting 4 homolog A [KO:K12196]
+            29082  CHMP4A; charged multivesicular body protein 4A [KO:K12194]
+            3339  HSPG2; heparan sulfate proteoglycan 2 [KO:K06255]
+            3916  LAMP1; lysosomal associated membrane protein 1 [KO:K06528]
+            3920  LAMP2; lysosomal associated membrane protein 2 [KO:K06528]
+            3949  LDLR; low density lipoprotein receptor [KO:K12473]
+            4072  EPCAM; epithelial cell adhesion molecule [KO:K06737]
+            49861  CLDN20; claudin 20 [KO:K06087]
+            5010  CLDN11; claudin 11 [KO:K06087]
+            5119  CHMP1A; charged multivesicular body protein 1A [KO:K12197]
+            51208  CLDN18; claudin 18 [KO:K06087]
+            53842  CLDN22; claudin 22 [KO:K06087]
+            57132  CHMP1B; charged multivesicular body protein 1B [KO:K12197]
+            644672  CLDN25; claudin 25 [KO:K06087]
+            6554  SLC10A1; solute carrier family 10 member 1 [KO:K14341]
+            7122  CLDN5; claudin 5 [KO:K06087]
+            7251  TSG101; tumor susceptibility 101 [KO:K12183]
+            9069  CLDN12; claudin 12 [KO:K06087]
+            9071  CLDN10; claudin 10 [KO:K06087]
+            9073  CLDN8; claudin 8 [KO:K06087]
+            9074  CLDN6; claudin 6 [KO:K06087]
+            9075  CLDN2; claudin 2 [KO:K06087]
+            9076  CLDN1; claudin 1 [KO:K06087]
+            9080  CLDN9; claudin 9 [KO:K06087]
+            91782  CHMP7; charged multivesicular body protein 7 [KO:K15053]
+            928  CD9; CD9 molecule [KO:K06460]
+            949  SCARB1; scavenger receptor class B member 1 [KO:K13885]
+            9525  VPS4B; vacuolar protein sorting 4 homolog B [KO:K12196]
+            967  CD63; CD63 molecule [KO:K06497]
+            975  CD81; CD81 molecule [KO:K06508]
+            9798  IST1; IST1 factor associated with ESCRT-III [KO:K19476]
+COMPOUND    C00925  Heparan sulfate
+REFERENCE   PMID:10394365
+  AUTHORS   Wynne SA, Crowther RA, Leslie AG
+  TITLE     The crystal structure of the human hepatitis B virus capsid.
+  JOURNAL   Mol Cell 3:771-80 (1999)
+            DOI:10.1016/s1097-2765(01)80009-5
+REFERENCE   PMID:19939922
+  AUTHORS   Packianathan C, Katen SP, Dann CE 3rd, Zlotnick A
+  TITLE     Conformational changes in the hepatitis B virus core protein are consistent with a role for allostery in virus assembly.
+  JOURNAL   J Virol 84:1607-15 (2010)
+            DOI:10.1128/JVI.02033-09
+REFERENCE   PMID:9687364
+  AUTHORS   Zuccola HJ, Rozzelle JE, Lemon SM, Erickson BW, Hogle JM
+  TITLE     Structural basis of the oligomerization of hepatitis delta antigen.
+  JOURNAL   Structure 6:821-30 (1998)
+            DOI:10.1016/s0969-2126(98)00084-7
+REFERENCE   PMID:36264808
+  AUTHORS   Torrents de la Pena A, Sliepen K, Eshun-Wilson L, Newby ML, Allen JD, Zon I, Koekkoek S, Chumbe A, Crispin M, Schinkel J, Lander GC, Sanders RW, Ward AB
+  TITLE     Structure of the hepatitis C virus E1E2 glycoprotein complex.
+  JOURNAL   Science 378:263-269 (2022)
+            DOI:10.1126/science.abn9884
+REFERENCE   PMID:25327248
+  AUTHORS   Wang X, Ren J, Gao Q, Hu Z, Sun Y, Li X, Rowlands DJ, Yin W, Wang J, Stuart DI, Rao Z, Fry EE
+  TITLE     Hepatitis A virus and the origins of picornaviruses.
+  JOURNAL   Nature 517:85-88 (2015)
+            DOI:10.1038/nature13806
+REFERENCE   PMID:19622744
+  AUTHORS   Guu TS, Liu Z, Ye Q, Mata DA, Li K, Yin C, Zhang J, Tao YJ
+  TITLE     Structure of the hepatitis E virus-like particle suggests mechanisms for virus assembly and receptor binding.
+  JOURNAL   Proc Natl Acad Sci U S A 106:12992-7 (2009)
+            DOI:10.1073/pnas.0904848106
+REFERENCE   PMID:32456000
+  AUTHORS   Oechslin N, Moradpour D, Gouttenoire J
+  TITLE     On the Host Side of the Hepatitis E Virus Life Cycle.
+  JOURNAL   Cells 9:cells9051294 (2020)
+            DOI:10.3390/cells9051294
+REFERENCE   PMID:38929615
+  AUTHORS   Shahini E, Argentiero A, Andriano A, Losito F, Maida M, Facciorusso A, Cozzolongo R, Villa E
+  TITLE     Hepatitis E Virus: What More Do We Need to Know?
+  JOURNAL   Medicina (Kaunas) 60:medicina60060998 (2024)
+            DOI:10.3390/medicina60060998
+REFERENCE   PMID:37185947
+  AUTHORS   Das A, Rivera-Serrano EE, Yin X, Walker CM, Feng Z, Lemon SM
+  TITLE     Cell entry and release of quasi-enveloped human hepatitis viruses.
+  JOURNAL   Nat Rev Microbiol 21:573-589 (2023)
+            DOI:10.1038/s41579-023-00889-z
+REL_PATHWAY hsa05160  Hepatitis C
+            hsa05161  Hepatitis B
+KO_PATHWAY  ko03272
+///

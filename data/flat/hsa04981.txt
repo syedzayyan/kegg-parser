@@ -1,0 +1,123 @@
+ENTRY       hsa04981                    Pathway
+NAME        Folate transport and metabolism - Homo sapiens (human)
+CLASS       Organismal Systems; Digestive system
+PATHWAY_MAP hsa04981  Folate transport and metabolism
+DRUG        D03372  Capromab pendetide (USAN)
+            D04525  Indium In 111 capromab pendetide (USP)
+            D10070  Iofolastat I 123 (USAN)
+            D12121  Acapatamab (USAN)
+            D12132  Piflufolastat F-18 (USAN)
+            D12257  Gallium Ga 68 gozetotide (USAN)
+            D12335  Lutetium Lu 177 vipivotide tetraxetan (USAN)
+            D12566  Nezastomig (USAN)
+            D12606  Flotufolastat F18 gallium (USAN)
+            D13129  Abefolastat tesaroxetan (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        100528021  ST20-MTHFS; ST20-MTHFS readthrough [KO:K01934] [EC:6.3.3.2]
+            10057  ABCC5; ATP binding cassette subfamily C member 5 [KO:K05668]
+            10257  ABCC4; ATP binding cassette subfamily C member 4 (PEL blood group) [KO:K05673]
+            10588  MTHFS; methenyltetrahydrofolate synthetase [KO:K01934] [EC:6.3.3.2]
+            10599  SLCO1B1; solute carrier organic anion transporter family member 1B1 [KO:K05043]
+            11309  SLCO2B1; solute carrier organic anion transporter family member 2B1 [KO:K14352]
+            113235  SLC46A1; solute carrier family 46 member 1 [KO:K14613]
+            115072896  SLCO1B3-SLCO1B7; SLCO1B3-SLCO1B7 readthrough [KO:K05043]
+            1244  ABCC2; ATP binding cassette subfamily C member 2 [KO:K05666]
+            1719  DHFR; dihydrofolate reductase [KO:K00287] [EC:1.5.1.3]
+            200895  DHFR2; dihydrofolate reductase 2 [KO:K00287] [EC:1.5.1.3]
+            2346  FOLH1; folate hydrolase 1 [KO:K14592] [EC:3.4.17.21]
+            2348  FOLR1; folate receptor alpha [KO:K13649]
+            2350  FOLR2; folate receptor beta [KO:K13649]
+            2352  FOLR3; folate receptor gamma [KO:K13649]
+            2356  FPGS; folylpolyglutamate synthase [KO:K01930] [EC:6.3.2.17]
+            23743  BHMT2; betaine--homocysteine S-methyltransferase 2 [KO:K00547] [EC:2.1.1.10]
+            28234  SLCO1B3; solute carrier organic anion transporter family member 1B3 [KO:K05043]
+            4363  ABCC1; ATP binding cassette subfamily C member 1 (ABCC1 blood group) [KO:K05665] [EC:7.6.2.3]
+            4522  MTHFD1; methylenetetrahydrofolate dehydrogenase, cyclohydrolase and formyltetrahydrofolate synthetase 1 [KO:K00288] [EC:1.5.1.5 3.5.4.9 6.3.4.3]
+            4524  MTHFR; methylenetetrahydrofolate reductase [KO:K25004]
+            4548  MTR; 5-methyltetrahydrofolate-homocysteine methyltransferase [KO:K00548] [EC:2.1.1.13]
+            635  BHMT; betaine--homocysteine S-methyltransferase [KO:K00544] [EC:2.1.1.5]
+            6470  SHMT1; serine hydroxymethyltransferase 1 [KO:K00600] [EC:2.1.2.1]
+            6472  SHMT2; serine hydroxymethyltransferase 2 [KO:K00600] [EC:2.1.2.1]
+            6573  SLC19A1; solute carrier family 19 member 1 [KO:K14609]
+            7298  TYMS; thymidylate synthetase [KO:K00560] [EC:2.1.1.45]
+            8714  ABCC3; ATP binding cassette subfamily C member 3 [KO:K05667]
+            9356  SLC22A6; solute carrier family 22 member 6 [KO:K08203]
+            9376  SLC22A8; solute carrier family 22 member 8 [KO:K08205]
+            9429  ABCG2; ATP binding cassette subfamily G member 2 (JR blood group) [KO:K05681]
+COMPOUND    C00019  S-Adenosyl-L-methionine
+            C00021  S-Adenosyl-L-homocysteine
+            C00073  L-Methionine
+            C00080  H+
+            C00101  Tetrahydrofolate
+            C00114  Choline
+            C00143  5,10-Methylenetetrahydrofolate
+            C00155  L-Homocysteine
+            C00157  Phosphatidylcholine
+            C00364  dTMP
+            C00365  dUMP
+            C00415  Dihydrofolate
+            C00440  5-Methyltetrahydrofolate
+            C00445  5,10-Methenyltetrahydrofolate
+            C00504  Folate
+            C00719  Betaine
+            C01026  N,N-Dimethylglycine
+            C01937  Methotrexate
+            C01996  Acetylcholine
+            C03479  Folinic acid
+REFERENCE   PMID:32200980
+  AUTHORS   Alam C, Kondo M, O'Connor DL, Bendayan R
+  TITLE     Clinical Implications of Folate Transport in the Central Nervous System.
+  JOURNAL   Trends Pharmacol Sci 41:349-361 (2020)
+            DOI:10.1016/j.tips.2020.02.004
+REFERENCE   PMID:36341171
+  AUTHORS   Akiyama T, Kuki I, Kim K, Yamamoto N, Yamada Y, Igarashi K, Ishihara T, Hatano Y, Kobayashi K
+  TITLE     Folic acid inhibits 5-methyltetrahydrofolate transport across the blood-cerebrospinal fluid barrier: Clinical biochemical data from two cases.
+  JOURNAL   JIMD Rep 63:529-535 (2022)
+            DOI:10.1002/jmd2.12321
+REFERENCE   PMID:24512081
+  AUTHORS   Visentin M, Diop-Bove N, Zhao R, Goldman ID
+  TITLE     The intestinal absorption of folates.
+  JOURNAL   Annu Rev Physiol 76:251-74 (2014)
+            DOI:10.1146/annurev-physiol-020911-153251
+REFERENCE   PMID:35807899
+  AUTHORS   Ledowsky C, Mahimbo A, Scarf V, Steel A
+  TITLE     Women Taking a Folic Acid Supplement in Countries with Mandatory Food Fortification Programs May Be Exceeding the Upper Tolerable Limit of Folic Acid:  A Systematic Review.
+  JOURNAL   Nutrients 14:nu14132715 (2022)
+            DOI:10.3390/nu14132715
+REFERENCE   PMID:33707653
+  AUTHORS   Zarou MM, Vazquez A, Vignir Helgason G
+  TITLE     Folate metabolism: a re-emerging therapeutic target in haematological cancers.
+  JOURNAL   Leukemia 35:1539-1551 (2021)
+            DOI:10.1038/s41375-021-01189-2
+REFERENCE   PMID:36768667
+  AUTHORS   Bekdash RA
+  TITLE     Methyl Donors, Epigenetic Alterations, and Brain Health: Understanding the Connection.
+  JOURNAL   Int J Mol Sci 24:ijms24032346 (2023)
+            DOI:10.3390/ijms24032346
+REFERENCE   PMID:19732866
+  AUTHORS   Steinfeld R, Grapp M, Kraetzner R, Dreha-Kulaczewski S, Helms G, Dechent P, Wevers R, Grosso S, Gartner J
+  TITLE     Folate receptor alpha defect causes cerebral folate transport deficiency: a treatable neurodegenerative disorder associated with disturbed myelin metabolism.
+  JOURNAL   Am J Hum Genet 85:354-63 (2009)
+            DOI:10.1016/j.ajhg.2009.08.005
+REFERENCE   PMID:33975330
+  AUTHORS   Sternbach S, West N, Singhal NK, Clements R, Basu S, Tripathi A, Dutta R, Freeman EJ, McDonough J
+  TITLE     The BHMT-betaine methylation pathway epigenetically modulates oligodendrocyte maturation.
+  JOURNAL   PLoS One 16:e0250486 (2021)
+            DOI:10.1371/journal.pone.0250486
+REFERENCE   PMID:34207319
+  AUTHORS   Shulpekova Y, Nechaev V, Kardasheva S, Sedova A, Kurbatova A, Bueverova E, Kopylov A, Malsagova K, Dlamini JC, Ivashkin V
+  TITLE     The Concept of Folic Acid in Health and Disease.
+  JOURNAL   Molecules 26:molecules26123731 (2021)
+            DOI:10.3390/molecules26123731
+REFERENCE   PMID:33105619
+  AUTHORS   Mafi S, Laroche-Raynaud C, Chazelas P, Lia AS, Derouault P, Sturtz F, Baaj Y, Froget R, Rio M, Benoist JF, Poumeaud F, Favreau F, Faye PA
+  TITLE     Pharmacoresistant Epilepsy in Childhood: Think of the Cerebral Folate Deficiency, a Treatable Disease.
+  JOURNAL   Brain Sci 10:brainsci10110762 (2020)
+            DOI:10.3390/brainsci10110762
+REL_PATHWAY hsa00240  Pyrimidine metabolism
+            hsa00670  One carbon pool by folate
+            hsa01523  Antifolate resistance
+            hsa04144  Endocytosis
+            hsa04725  Cholinergic synapse
+KO_PATHWAY  ko04981
+///

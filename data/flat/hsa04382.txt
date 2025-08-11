@@ -1,0 +1,293 @@
+ENTRY       hsa04382                    Pathway
+NAME        Cornified envelope formation - Homo sapiens (human)
+CLASS       Organismal Systems; Development and regeneration
+PATHWAY_MAP hsa04382  Cornified envelope formation
+NETWORK     nt06545  Cornified envelope formation
+  ELEMENT   N01922  Localization of envoplakin and periplakin to the plasma membrane (PM)
+            N01923  Closslinking of envoplakin, periplakin and involucrin
+            N01924  Loricrin oligomerization with small proline-rich proteins and further stabilization
+            N01925  Ultra-long-chain omega-hydroxy fatty acyl-CoA synthesis
+            N01926  Sphinganine synthesis
+            N01927  Acylglucosylceramide synthesis
+            N01928  Transport of lipids into lamellar body (LB)
+            N01929  Peroxidation and deglycosylation of acylglucosylceramide
+            N01930  Processing of profilaggrin to filaggrin and binding to keratin filaments
+            N01931  Processing of filaggrin to amino acids
+            N01932  Histidine conversion to urocanic acid
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        100132463  CLDN24; claudin 24 [KO:K06087]
+            100288814  CLDN34; claudin 34 [KO:K06087]
+            100506658  OCLN; occludin [KO:K06088]
+            100653049  [KO:K07604]
+            1041  CDSN; corneodesmosin [KO:K23457]
+            10558  SPTLC1; serine palmitoyltransferase long chain base subunit 1 [KO:K00654] [EC:2.3.1.50]
+            10686  CLDN16; claudin 16 [KO:K06087]
+            10999  SLC27A4; solute carrier family 27 member 4 [KO:K08745] [EC:6.2.1.-]
+            110806278  SPRR5; small proline rich protein 5 [KO:K28331]
+            11240  PADI2; peptidyl arginine deiminase 2 [KO:K01481] [EC:3.5.3.15]
+            112802  KRT71; keratin 71 [KO:K07605]
+            121214  SDR9C7; short chain dehydrogenase/reductase family 9C member 7 [KO:K24425]
+            121391  KRT74; keratin 74 [KO:K07605]
+            122526777  LCE7A; late cornified envelope 7A [KO:K28332]
+            124905679  [KO:K23757]
+            125115  KRT40; keratin 40 [KO:K07604]
+            126410  CYP4F22; cytochrome P450 family 4 subfamily F member 22 [KO:K17731] [EC:1.14.14.177]
+            126637  TCHHL1; trichohyalin like 1 [KO:K23769]
+            1282  COL4A1; collagen type IV alpha 1 chain [KO:K06237]
+            1284  COL4A2; collagen type IV alpha 2 chain [KO:K06237]
+            1285  COL4A3; collagen type IV alpha 3 chain [KO:K06237]
+            1286  COL4A4; collagen type IV alpha 4 chain [KO:K06237]
+            1287  COL4A5; collagen type IV alpha 5 chain [KO:K06237]
+            1288  COL4A6; collagen type IV alpha 6 chain [KO:K06237]
+            1294  COL7A1; collagen type VII alpha 1 chain [KO:K16628]
+            1308  COL17A1; collagen type XVII alpha 1 chain [KO:K07603]
+            1364  CLDN4; claudin 4 [KO:K06087]
+            1365  CLDN3; claudin 3 [KO:K06087]
+            1366  CLDN7; claudin 7 [KO:K06087]
+            137075  CLDN23; claudin 23 [KO:K06087]
+            140576  S100A16; S100 calcium binding protein A16 [KO:K23768]
+            140807  KRT72; keratin 72 [KO:K07605]
+            144501  KRT80; keratin 80 [KO:K07605]
+            147183  KRT25; keratin 25 [KO:K07604]
+            147409  DSG4; desmoglein 4 [KO:K07599]
+            149461  CLDN19; claudin 19 [KO:K06087]
+            151516  ASPRV1; aspartic peptidase retroviral like 1 [KO:K24552]
+            162605  KRT28; keratin 28 [KO:K07604]
+            163778  SPRR4; small proline rich protein 4 [KO:K28331]
+            1823  DSC1; desmocollin 1 [KO:K07600]
+            1828  DSG1; desmoglein 1 [KO:K07596]
+            1829  DSG2; desmoglein 2 [KO:K07597]
+            1830  DSG3; desmoglein 3 [KO:K07598]
+            1832  DSP; desmoplakin [KO:K10381]
+            192666  KRT24; keratin 24 [KO:K07604]
+            196374  KRT78; keratin 78 [KO:K07605]
+            199834  LCE4A; late cornified envelope 4A [KO:K28332]
+            204219  CERS3; ceramide synthase 3 [KO:K24622]
+            2053  EPHX2; epoxide hydrolase 2 [KO:K08726] [EC:3.3.2.10 3.1.3.76]
+            2125  EVPL; envoplakin [KO:K10383]
+            2312  FLG; filaggrin [KO:K10384]
+            23254  KAZN; kazrin, periplakin interacting protein [KO:K28344]
+            23562  CLDN14; claudin 14 [KO:K06087]
+            23581  CASP14; caspase 14 [KO:K04401] [EC:3.4.22.-]
+            24146  CLDN15; claudin 15 [KO:K06087]
+            242  ALOX12B; arachidonate 12-lipoxygenase, 12R type [KO:K08021] [EC:1.13.11.-]
+            2531  KDSR; 3-ketodihydrosphingosine reductase [KO:K04708] [EC:1.1.1.102]
+            254910  LCE5A; late cornified envelope 5A [KO:K28332]
+            25984  KRT23; keratin 23 [KO:K07604]
+            26154  ABCA12; ATP binding cassette subfamily A member 12 [KO:K05646]
+            26239  LCE2B; late cornified envelope 2B [KO:K28332]
+            26285  CLDN17; claudin 17 [KO:K06087]
+            2629  GBA1; glucosylceramidase beta 1 [KO:K01201] [EC:3.2.1.45]
+            28227  PPP2R3B; protein phosphatase 2 regulatory subunit B''beta [KO:K11583]
+            285848  PNPLA1; patatin like domain 1, omega-hydroxyceramide transacylase [KO:K16813] [EC:2.3.1.296]
+            286887  KRT6C; keratin 6C [KO:K07605]
+            29943  PADI1; peptidyl arginine deiminase 1 [KO:K01481] [EC:3.5.3.15]
+            3034  HAL; histidine ammonia-lyase [KO:K01745] [EC:4.3.1.3]
+            319101  KRT73; keratin 73 [KO:K07605]
+            338324  S100A7A; S100 calcium binding protein A7A [KO:K21126]
+            338785  KRT79; keratin 79 [KO:K07605]
+            342574  KRT27; keratin 27 [KO:K07604]
+            353131  LCE1A; late cornified envelope 1A [KO:K28332]
+            353132  LCE1B; late cornified envelope 1B [KO:K28332]
+            353133  LCE1C; late cornified envelope 1C [KO:K28332]
+            353134  LCE1D; late cornified envelope 1D [KO:K28332]
+            353135  LCE1E; late cornified envelope 1E [KO:K28332]
+            353137  LCE1F; late cornified envelope 1F [KO:K28332]
+            353139  LCE2A; late cornified envelope 2A [KO:K28332]
+            353140  LCE2C; late cornified envelope 2C [KO:K28332]
+            353141  LCE2D; late cornified envelope 2D [KO:K28332]
+            353142  LCE3A; late cornified envelope 3A [KO:K28332]
+            353143  LCE3B; late cornified envelope 3B [KO:K28332]
+            353144  LCE3C; late cornified envelope 3C [KO:K28332]
+            353145  LCE3E; late cornified envelope 3E [KO:K28332]
+            353238  PADI6; peptidyl arginine deiminase 6 [KO:K01481] [EC:3.5.3.15]
+            353288  KRT26; keratin 26 [KO:K07604]
+            3655  ITGA6; integrin subunit alpha 6 [KO:K06485]
+            3691  ITGB4; integrin subunit beta 4 [KO:K06525]
+            3713  IVL; involucrin [KO:K28330]
+            3728  JUP; junction plakoglobin [KO:K10056]
+            374454  KRT77; keratin 77 [KO:K07605]
+            376497  SLC27A1; solute carrier family 27 member 1 [KO:K08745] [EC:6.2.1.-]
+            3848  KRT1; keratin 1 [KO:K07605]
+            3849  KRT2; keratin 2 [KO:K07605]
+            3850  KRT3; keratin 3 [KO:K07605]
+            3851  KRT4; keratin 4 [KO:K07605]
+            3852  KRT5; keratin 5 [KO:K07605]
+            3853  KRT6A; keratin 6A [KO:K07605]
+            3854  KRT6B; keratin 6B [KO:K07605]
+            3855  KRT7; keratin 7 [KO:K07605]
+            3856  KRT8; keratin 8 [KO:K07605]
+            3857  KRT9; keratin 9 [KO:K07604]
+            3858  KRT10; keratin 10 [KO:K07604]
+            3859  KRT12; keratin 12 [KO:K07604]
+            3860  KRT13; keratin 13 [KO:K07604]
+            3861  KRT14; keratin 14 [KO:K07604]
+            3866  KRT15; keratin 15 [KO:K07604]
+            3868  KRT16; keratin 16 [KO:K07604]
+            3872  KRT17; keratin 17 [KO:K07604]
+            3875  KRT18; keratin 18 [KO:K07604]
+            3880  KRT19; keratin 19 [KO:K07604]
+            3881  KRT31; keratin 31 [KO:K07604]
+            3882  KRT32; keratin 32 [KO:K07604]
+            3883  KRT33A; keratin 33A [KO:K07604]
+            3884  KRT33B; keratin 33B [KO:K07604]
+            3885  KRT34; keratin 34 [KO:K07604]
+            3886  KRT35; keratin 35 [KO:K07604]
+            388697  HRNR; hornerin [KO:K23757]
+            388698  FLG2; filaggrin 2 [KO:K10384]
+            3887  KRT81; keratin 81 [KO:K07605]
+            3888  KRT82; keratin 82 [KO:K07605]
+            3889  KRT83; keratin 83 [KO:K07605]
+            3890  KRT84; keratin 84 [KO:K07605]
+            3891  KRT85; keratin 85 [KO:K07605]
+            3892  KRT86; keratin 86 [KO:K07605]
+            390792  KRT39; keratin 39 [KO:K07604]
+            3909  LAMA3; laminin subunit alpha 3 [KO:K06240]
+            3911  LAMA5; laminin subunit alpha 5 [KO:K06240]
+            3914  LAMB3; laminin subunit beta 3 [KO:K06244]
+            3918  LAMC2; laminin subunit gamma 2 [KO:K06246]
+            4014  LORICRIN; loricrin cornified envelope precursor protein [KO:K10385]
+            49861  CLDN20; claudin 20 [KO:K06087]
+            5010  CLDN11; claudin 11 [KO:K06087]
+            5045  FURIN; furin, paired basic amino acid cleaving enzyme [KO:K01349] [EC:3.4.21.75]
+            5046  PCSK6; proprotein convertase subtilisin/kexin type 6 [KO:K08672] [EC:3.4.21.-]
+            51099  ABHD5; abhydrolase domain containing 5, lysophosphatidic acid acyltransferase [KO:K13699] [EC:2.3.1.51]
+            51208  CLDN18; claudin 18 [KO:K06087]
+            51350  KRT76; keratin 76 [KO:K07605]
+            51702  PADI3; peptidyl arginine deiminase 3 [KO:K01481] [EC:3.5.3.15]
+            5317  PKP1; plakophilin 1 [KO:K10387]
+            5318  PKP2; plakophilin 2 [KO:K12642]
+            5339  PLEC; plectin [KO:K10388]
+            53842  CLDN22; claudin 22 [KO:K06087]
+            54474  KRT20; keratin 20 [KO:K07604]
+            5493  PPL; periplakin [KO:K10386]
+            55012  PPP2R3C; protein phosphatase 2 regulatory subunit B''gamma [KO:K11583]
+            5515  PPP2CA; protein phosphatase 2 catalytic subunit alpha [KO:K04382] [EC:3.1.3.16]
+            5516  PPP2CB; protein phosphatase 2 catalytic subunit beta [KO:K04382] [EC:3.1.3.16]
+            5518  PPP2R1A; protein phosphatase 2 scaffold subunit Aalpha [KO:K03456]
+            5519  PPP2R1B; protein phosphatase 2 scaffold subunit Abeta [KO:K03456]
+            5520  PPP2R2A; protein phosphatase 2 regulatory subunit Balpha [KO:K04354]
+            5521  PPP2R2B; protein phosphatase 2 regulatory subunit Bbeta [KO:K04354]
+            5522  PPP2R2C; protein phosphatase 2 regulatory subunit Bgamma [KO:K04354]
+            5523  PPP2R3A; protein phosphatase 2 regulatory subunit B''alpha [KO:K11583]
+            5525  PPP2R5A; protein phosphatase 2 regulatory subunit B'alpha [KO:K11584]
+            5526  PPP2R5B; protein phosphatase 2 regulatory subunit B'beta [KO:K11584]
+            5527  PPP2R5C; protein phosphatase 2 regulatory subunit B'gamma [KO:K11584]
+            5528  PPP2R5D; protein phosphatase 2 regulatory subunit B'delta [KO:K11584]
+            5529  PPP2R5E; protein phosphatase 2 regulatory subunit B'epsilon [KO:K11584]
+            55304  SPTLC3; serine palmitoyltransferase long chain base subunit 3 [KO:K00654] [EC:2.3.1.50]
+            55844  PPP2R2D; protein phosphatase 2 regulatory subunit Bdelta [KO:K04354]
+            5652  PRSS8; serine protease 8 [KO:K08664] [EC:3.4.21.-]
+            57402  S100A14; S100 calcium binding protein A14 [KO:K23767]
+            57704  GBA2; glucosylceramidase beta 2 [KO:K17108] [EC:3.2.1.45]
+            59344  ALOXE3; arachidonate epidermal lipoxygenase 3 [KO:K18684] [EC:4.2.1.152 5.4.4.7]
+            6271  S100A1; S100 calcium binding protein A1 [KO:K23758]
+            6273  S100A2; S100 calcium binding protein A2 [KO:K23759]
+            6274  S100A3; S100 calcium binding protein A3 [KO:K23760]
+            6275  S100A4; S100 calcium binding protein A4 [KO:K23761]
+            6276  S100A5; S100 calcium binding protein A5 [KO:K23762]
+            6277  S100A6; S100 calcium binding protein A6 [KO:K23764]
+            6278  S100A7; S100 calcium binding protein A7 [KO:K21126]
+            6279  S100A8; S100 calcium binding protein A8 [KO:K21127]
+            6280  S100A9; S100 calcium binding protein A9 [KO:K21128]
+            6281  S100A10; S100 calcium binding protein A10 [KO:K17274]
+            6282  S100A11; S100 calcium binding protein A11 [KO:K23765]
+            6283  S100A12; S100 calcium binding protein A12 [KO:K23766]
+            6284  S100A13; S100 calcium binding protein A13 [KO:K23765]
+            642  BLMH; bleomycin hydrolase [KO:K01372] [EC:3.4.22.40]
+            644672  CLDN25; claudin 25 [KO:K06087]
+            64834  ELOVL1; ELOVL fatty acid elongase 1 [KO:K10247] [EC:2.3.1.199]
+            667  DST; dystonin [KO:K10382]
+            6698  SPRR1A; small proline rich protein 1A [KO:K28331]
+            6699  SPRR1B; small proline rich protein 1B [KO:K28331]
+            6700  SPRR2A; small proline rich protein 2A [KO:K28331]
+            6701  SPRR2B; small proline rich protein 2B [KO:K28331]
+            6703  SPRR2D; small proline rich protein 2D [KO:K28331]
+            6704  SPRR2E; small proline rich protein 2E [KO:K28331]
+            6705  SPRR2F; small proline rich protein 2F [KO:K28331]
+            6706  SPRR2G; small proline rich protein 2G [KO:K28331]
+            6707  SPRR3; small proline rich protein 3 [KO:K28331]
+            6768  ST14; ST14 transmembrane serine protease matriptase [KO:K08670] [EC:3.4.21.109]
+            6785  ELOVL4; ELOVL fatty acid elongase 4 [KO:K10249] [EC:2.3.1.199]
+            7051  TGM1; transglutaminase 1 [KO:K05619] [EC:2.3.2.13]
+            7053  TGM3; transglutaminase 3 [KO:K05620] [EC:2.3.2.13]
+            7062  TCHH; trichohyalin [KO:K18626]
+            7082  TJP1; tight junction protein 1 [KO:K05701]
+            7122  CLDN5; claudin 5 [KO:K06087]
+            7357  UGCG; UDP-glucose ceramide glucosyltransferase [KO:K00720] [EC:2.4.1.80]
+            79852  EPHX3; epoxide hydrolase 3 [KO:K22368] [EC:3.3.2.10]
+            823  CAPN1; calpain 1 [KO:K01367] [EC:3.4.22.52]
+            84283  TMEM79; transmembrane protein 79 [KO:K28333]
+            84648  LCE3D; late cornified envelope 3D [KO:K28332]
+            8687  KRT38; keratin 38 [KO:K07604]
+            8688  KRT37; keratin 37 [KO:K07604]
+            8689  KRT36; keratin 36 [KO:K07604]
+            9069  CLDN12; claudin 12 [KO:K06087]
+            9071  CLDN10; claudin 10 [KO:K06087]
+            9073  CLDN8; claudin 8 [KO:K06087]
+            9074  CLDN6; claudin 6 [KO:K06087]
+            9075  CLDN2; claudin 2 [KO:K06087]
+            9076  CLDN1; claudin 1 [KO:K06087]
+            9080  CLDN9; claudin 9 [KO:K06087]
+            9119  KRT75; keratin 75 [KO:K07605]
+            9333  TGM5; transglutaminase 5 [KO:K05622] [EC:2.3.2.13]
+            9517  SPTLC2; serine palmitoyltransferase long chain base subunit 2 [KO:K00654] [EC:2.3.1.50]
+COMPOUND    C00064  L-Glutamine
+            C00076  Calcium cation
+            C00135  L-Histidine
+            C00154  Palmitoyl-CoA
+            C00162  Fatty acid
+            C00187  Cholesterol
+            C00785  Urocanate
+            C00836  Sphinganine
+            C01879  5-Oxoproline
+            C02934  3-Dehydrosphinganine
+            C22352  Ultra-long-chain fatty acid
+            C22353  Ultra-long-chain omega-hydroxy fatty acid
+            C23027  Ultra-long-chain omega-hydroxy fatty acyl-CoA
+            C23028  Ultra-long-chain omega-hydroxyceramide
+            C23029  linoleate-esterified acylceramide
+            C23030  Acylglucosylceramide
+REFERENCE   PMID:15803139
+  AUTHORS   Candi E, Schmidt R, Melino G
+  TITLE     The cornified envelope: a model of cell death in the skin.
+  JOURNAL   Nat Rev Mol Cell Biol 6:328-40 (2005)
+            DOI:10.1038/nrm1619
+REFERENCE   PMID:29153780
+  AUTHORS   Egawa G, Kabashima K
+  TITLE     Barrier dysfunction in the skin allergy.
+  JOURNAL   Allergol Int 67:3-11 (2018)
+            DOI:10.1016/j.alit.2017.10.002
+REFERENCE   PMID:32218335
+  AUTHORS   Ishitsuka Y, Roop DR
+  TITLE     Loricrin: Past, Present, and Future.
+  JOURNAL   Int J Mol Sci 21:ijms21072271 (2020)
+            DOI:10.3390/ijms21072271
+REFERENCE   PMID:34639001
+  AUTHORS   Gallegos-Alcala P, Jimenez M, Cervantes-Garcia D, Salinas E
+  TITLE     The Keratinocyte as a Crucial Cell in the Predisposition, Onset, Progression, Therapy and Study of the Atopic Dermatitis.
+  JOURNAL   Int J Mol Sci 22:ijms221910661 (2021)
+            DOI:10.3390/ijms221910661
+REFERENCE   PMID:30776025
+  AUTHORS   Goleva E, Berdyshev E, Leung DY
+  TITLE     Epithelial barrier repair and prevention of allergy.
+  JOURNAL   J Clin Invest 129:1463-1474 (2019)
+            DOI:10.1172/JCI124608
+REFERENCE   PMID:23954553
+  AUTHORS   Breiden B, Sandhoff K
+  TITLE     The role of sphingolipid metabolism in cutaneous permeability barrier formation.
+  JOURNAL   Biochim Biophys Acta 1841:441-52 (2014)
+            DOI:10.1016/j.bbalip.2013.08.010
+REFERENCE   PMID:31974308
+  AUTHORS   Yamamoto H, Hattori M, Chamulitrat W, Ohno Y, Kihara A
+  TITLE     Skin permeability barrier formation by the ichthyosis-causative gene FATP4 through formation of the barrier lipid omega-O-acylceramide.
+  JOURNAL   Proc Natl Acad Sci U S A 117:2914-2922 (2020)
+            DOI:10.1073/pnas.1917525117
+REFERENCE   PMID:36902463
+  AUTHORS   Ge F, Sun K, Hu Z, Dong X
+  TITLE     Role of Omega-Hydroxy Ceramides in Epidermis: Biosynthesis, Barrier Integrity and Analyzing Method.
+  JOURNAL   Int J Mol Sci 24:ijms24055035 (2023)
+            DOI:10.3390/ijms24055035
+REL_PATHWAY hsa00600  Sphingolipid metabolism
+KO_PATHWAY  ko04382
+///

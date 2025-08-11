@@ -1,0 +1,146 @@
+ENTRY       hsa03265                    Pathway
+NAME        Virion - Ebolavirus, Lyssavirus and Morbillivirus - Homo sapiens (human)
+CLASS       Genetic Information Processing; Information processing in viruses
+PATHWAY_MAP hsa03265  Virion - Ebolavirus, Lyssavirus and Morbillivirus
+DBLINKS     PDB: 5Z9W  6YU8 4LDD 5JQ7 2GTT 6UEB 2W2S 6LGX 4UFT 2ZB5 5YXW
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10332  CLEC4M; C-type lectin domain family 4 member M [KO:K06563]
+            1134  CHRNA1; cholinergic receptor nicotinic alpha 1 subunit [KO:K04803]
+            2213  FCGR2B; Fc gamma receptor IIb [KO:K12560]
+            30835  CD209; CD209 molecule [KO:K06563]
+            4179  CD46; CD46 molecule [KO:K04007]
+            432  ASGR1; asialoglycoprotein receptor 1 [KO:K10063]
+            4684  NCAM1; neural cell adhesion molecule 1 [KO:K06491]
+            4685  NCAM2; neural cell adhesion molecule 2 [KO:K06491]
+            4804  NGFR; nerve growth factor receptor [KO:K02583]
+            4864  NPC1; NPC intracellular cholesterol transporter 1 [KO:K12385]
+            6504  SLAMF1; signaling lymphocytic activation molecule family member 1 [KO:K06536]
+            81607  NECTIN4; nectin cell adhesion molecule 4 [KO:K06593]
+REFERENCE   PMID:22371572
+  AUTHORS   Bharat TA, Noda T, Riches JD, Kraehling V, Kolesnikova L, Becker S, Kawaoka Y, Briggs JA
+  TITLE     Structural dissection of Ebola virus and its assembly determinants using cryo-electron tomography.
+  JOURNAL   Proc Natl Acad Sci U S A 109:4275-80 (2012)
+            DOI:10.1073/pnas.1120453109
+REFERENCE   PMID:30333622
+  AUTHORS   Sugita Y, Matsunami H, Kawaoka Y, Noda T, Wolf M
+  TITLE     Cryo-EM structure of the Ebola virus nucleoprotein-RNA complex at 3.6 A resolution.
+  JOURNAL   Nature 563:137-140 (2018)
+            DOI:10.1038/s41586-018-0630-0
+REFERENCE   PMID:29144446
+  AUTHORS   Wan W, Kolesnikova L, Clarke M, Koehler A, Noda T, Becker S, Briggs JAG
+  TITLE     Structure and assembly of the Ebola virus nucleocapsid.
+  JOURNAL   Nature 551:394-397 (2017)
+            DOI:10.1038/nature24490
+REFERENCE   PMID:23953110
+  AUTHORS   Bornholdt ZA, Noda T, Abelson DM, Halfmann P, Wood MR, Kawaoka Y, Saphire EO
+  TITLE     Structural rearrangement of ebola virus VP40 begets multiple functions in the virus life cycle.
+  JOURNAL   Cell 154:763-74 (2013)
+            DOI:10.1016/j.cell.2013.07.015
+REFERENCE   PMID:29950600
+  AUTHORS   Pavadai E, Gerstman BS, Chapagain PP
+  TITLE     A cylindrical assembly model and dynamics of the Ebola virus VP40 structural matrix.
+  JOURNAL   Sci Rep 8:9776 (2018)
+            DOI:10.1038/s41598-018-28077-7
+REFERENCE   PMID:33016878
+  AUTHORS   Wan W, Clarke M, Norris MJ, Kolesnikova L, Koehler A, Bornholdt ZA, Becker S, Saphire EO, Briggs JA
+  TITLE     Ebola and Marburg virus matrix layers are locally ordered assemblies of VP40 dimers.
+  JOURNAL   Elife 9:59225 (2020)
+            DOI:10.7554/eLife.59225
+REFERENCE   PMID:27362232
+  AUTHORS   Zhao Y, Ren J, Harlos K, Jones DM, Zeltina A, Bowden TA, Padilla-Parra S, Fry EE, Stuart DI
+  TITLE     Toremifene interacts with and destabilizes the Ebola virus glycoprotein.
+  JOURNAL   Nature 535:169-172 (2016)
+            DOI:10.1038/nature18615
+REFERENCE   PMID:27562261
+  AUTHORS   Pallesen J, Murin CD, de Val N, Cottrell CA, Hastie KM, Turner HL, Fusco ML, Flyak AI, Zeitlin L, Crowe JE Jr, Andersen KG, Saphire EO, Ward AB
+  TITLE     Structures of Ebola virus GP and sGP in complex with therapeutic antibodies.
+  JOURNAL   Nat Microbiol 1:16128 (2016)
+            DOI:10.1038/nmicrobiol.2016.128
+REFERENCE   PMID:28397863
+  AUTHORS   Beniac DR, Booth TF
+  TITLE     Structure of the Ebola virus glycoprotein spike within the virion envelope at 11 A resolution.
+  JOURNAL   Sci Rep 7:46374 (2017)
+            DOI:10.1038/srep46374
+REFERENCE   PMID:18615077
+  AUTHORS   Lee JE, Fusco ML, Hessell AJ, Oswald WB, Burton DR, Saphire EO
+  TITLE     Structure of the Ebola virus glycoprotein bound to an antibody from a human survivor.
+  JOURNAL   Nature 454:177-82 (2008)
+            DOI:10.1038/nature07082
+REFERENCE   PMID:10077567
+  AUTHORS   Malashkevich VN, Schneider BJ, McNally ML, Milhollen MA, Pang JX, Kim PS
+  TITLE     Core structure of the envelope glycoprotein GP2 from Ebola virus at 1.9-A resolution.
+  JOURNAL   Proc Natl Acad Sci U S A 96:2662-7 (1999)
+            DOI:10.1073/pnas.96.6.2662
+REFERENCE   PMID:34175537
+  AUTHORS   Morales-Tenorio M, Ginex T, Cuesta-Geijo MA, Campillo NE, Munoz-Fontela C, Alonso C, Delgado R, Gil C
+  TITLE     Potential pharmacological strategies targeting the Niemann-Pick C1 receptor and Ebola virus glycoprotein interaction.
+  JOURNAL   Eur J Med Chem 223:113654 (2021)
+            DOI:10.1016/j.ejmech.2021.113654
+REFERENCE   PMID:35246537
+  AUTHORS   Fujita-Fujiharu Y, Sugita Y, Takamatsu Y, Houri K, Igarashi M, Muramoto Y, Nakano M, Tsunoda Y, Taniguchi I, Becker S, Noda T
+  TITLE     Structural insight into Marburg virus nucleoprotein-RNA complex formation.
+  JOURNAL   Nat Commun 13:1191 (2022)
+            DOI:10.1038/s41467-022-28802-x
+REFERENCE   PMID:32872471
+  AUTHORS   Riedel C, Hennrich AA, Conzelmann KK
+  TITLE     Components and Architecture of the Rhabdovirus Ribonucleoprotein Complex.
+  JOURNAL   Viruses 12:E959 (2020)
+            DOI:10.3390/v12090959
+REFERENCE   PMID:31953264
+  AUTHORS   Horwitz JA, Jenni S, Harrison SC, Whelan SPJ
+  TITLE     Structure of a rabies virus polymerase complex from electron cryo-microscopy.
+  JOURNAL   Proc Natl Acad Sci U S A 117:2099-2107 (2020)
+            DOI:10.1073/pnas.1918809117
+REFERENCE   PMID:32004500
+  AUTHORS   Yang F, Lin S, Ye F, Yang J, Qi J, Chen Z, Lin X, Wang J, Yue D, Cheng Y, Chen Z, Chen H, You Y, Zhang Z, Yang Y, Yang M, Sun H, Li Y, Cao Y, Yang S, Wei Y, Gao GF, Lu G
+  TITLE     Structural Analysis of Rabies Virus Glycoprotein Reveals pH-Dependent Conformational Changes and Interactions with a Neutralizing Antibody.
+  JOURNAL   Cell Host Microbe 27:441-453.e7 (2020)
+            DOI:10.1016/j.chom.2019.12.012
+REFERENCE   PMID:16778023
+  AUTHORS   Albertini AA, Wernimont AK, Muziol T, Ravelli RB, Clapier CR, Schoehn G, Weissenhorn W, Ruigrok RW
+  TITLE     Crystal structure of the rabies virus nucleoprotein-RNA complex.
+  JOURNAL   Science 313:360-3 (2006)
+            DOI:10.1126/science.1125280
+REFERENCE   PMID:30787192
+  AUTHORS   Desfosses A, Milles S, Jensen MR, Guseva S, Colletier JP, Maurin D, Schoehn G, Gutsche I, Ruigrok RWH, Blackledge M
+  TITLE     Assembly and cryo-EM structures of RNA-specific measles virus nucleocapsids provide mechanistic insight into paramyxoviral replication.
+  JOURNAL   Proc Natl Acad Sci U S A 116:4256-4264 (2019)
+            DOI:10.1073/pnas.1816417116
+REFERENCE   PMID:26719278
+  AUTHORS   Guryanov SG, Liljeroos L, Kasaragod P, Kajander T, Butcher SJ
+  TITLE     Crystal Structure of the Measles Virus Nucleoprotein Core in Complex with an N-Terminal Region of Phosphoprotein.
+  JOURNAL   J Virol 90:2849-57 (2015)
+            DOI:10.1128/JVI.02865-15
+REFERENCE   PMID:22891297
+  AUTHORS   Battisti AJ, Meng G, Winkler DC, McGinnes LW, Plevka P, Steven AC, Morrison TG, Rossmann MG
+  TITLE     Structure and assembly of a paramyxovirus matrix protein.
+  JOURNAL   Proc Natl Acad Sci U S A 109:13996-4000 (2012)
+            DOI:10.1073/pnas.1210275109
+REFERENCE   PMID:35857835
+  AUTHORS   Norris MJ, Husby ML, Kiosses WB, Yin J, Saxena R, Rennick LJ, Heiner A, Harkins SS, Pokhrel R, Schendel SL, Hastie KM, Landeras-Bueno S, Salie ZL, Lee B, Chapagain PP, Maisner A, Duprex WP, Stahelin RV, Saphire EO
+  TITLE     Measles and Nipah virus assembly: Specific lipid binding drives matrix polymerization.
+  JOURNAL   Sci Adv 8:eabn1440 (2022)
+            DOI:10.1126/sciadv.abn1440
+REFERENCE   PMID:18003910
+  AUTHORS   Hashiguchi T, Kajikawa M, Maita N, Takeda M, Kuroki K, Sasaki K, Kohda D, Yanagi Y, Maenaka K
+  TITLE     Crystal structure of measles virus hemagglutinin provides insight into effective vaccines.
+  JOURNAL   Proc Natl Acad Sci U S A 104:19535-40 (2007)
+            DOI:10.1073/pnas.0707830104
+REFERENCE   PMID:23202587
+  AUTHORS   Zhang X, Lu G, Qi J, Li Y, He Y, Xu X, Shi J, Zhang CW, Yan J, Gao GF
+  TITLE     Structure of measles virus hemagglutinin bound to its epithelial receptor nectin-4.
+  JOURNAL   Nat Struct Mol Biol 20:67-72 (2013)
+            DOI:10.1038/nsmb.2432
+REFERENCE   PMID:27490564
+  AUTHORS   Tahara M, Burckert JP, Kanou K, Maenaka K, Muller CP, Takeda M
+  TITLE     Measles Virus Hemagglutinin Protein Epitopes: The Basis of Antigenic Stability.
+  JOURNAL   Viruses 8:v8080216 (2016)
+            DOI:10.3390/v8080216
+REFERENCE   PMID:29463726
+  AUTHORS   Hashiguchi T, Fukuda Y, Matsuoka R, Kuroda D, Kubota M, Shirogane Y, Watanabe S, Tsumoto K, Kohda D, Plemper RK, Yanagi Y
+  TITLE     Structures of the prefusion form of measles virus fusion protein in complex with inhibitors.
+  JOURNAL   Proc Natl Acad Sci U S A 115:2496-2501 (2018)
+            DOI:10.1073/pnas.1718957115
+REL_PATHWAY hsa05162  Measles
+KO_PATHWAY  ko03265
+///

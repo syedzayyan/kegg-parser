@@ -1,0 +1,376 @@
+ENTRY       hsa04082                    Pathway
+NAME        Neuroactive ligand signaling - Homo sapiens (human)
+DESCRIPTION Neuroactive ligand signaling is a process where receptors and ligands on the cell membrane initiate intracellular signaling pathways. It plays a crucial role in the development of various brain disorders.
+CLASS       Environmental Information Processing; Signaling molecules and interaction
+PATHWAY_MAP hsa04082  Neuroactive ligand signaling
+NETWORK     nt06028  Dopamine and serotonin metabolism
+            nt06460  Alzheimer disease
+            nt06461  Huntington disease
+            nt06462  Spinocerebellar ataxia
+            nt06465  Prion disease
+            nt06466  Pathways of neurodegeneration
+            nt06544  Neuroactive ligand signaling
+  ELEMENT   N00970  Transport of calcium
+            N01790  Transport of dopamine into the neuron
+            N01878  Glutamate-GRM-GNAQ/S signaling pathway
+            N01879  Glutamate-GRM-GNAI/O signaling pathway
+            N01882  Transport of natrium, KA receptor
+            N01883  Transport of natrium, AMPAR
+            N01884  Transport of glutamate, EAAT
+            N01886  Glutamate transport in synapse
+            N01887  Transport of chloride, GABAA receptor
+            N01888  GABA-GABBR-GNAI/O signaling pathway
+            N01894  Acetylcholine-CHRM-GNAQ/11 signaling pathway
+            N01895  Transport of natrium/calcium, CHRN
+            N01896  Acetylcholine metabolism and transport in neuron
+            N01897  Dopamine-DRD-GNAQ/S signaling pathway
+            N01898  Dopamine-DRD-GNAI/O signaling pathway
+            N01900  Serotonin-HTR2-GNAQ/11 signaling pathway
+            N01901  Serotonin-HTR1/5-GNAI/O signaling pathway
+            N01902  Transport of serotonin, SLC6A4
+            N01903  Norepinephrine-ADRA2-GNAI/O signaling pathway
+            N01904  Norepinephrine-ADRB-GNAS signaling pathway
+            N01906  Glycine transport in neuron
+            N01907  Transport of chloride, GLR
+            N01908  ADP/UDP-glucose-P2RY-GNAI/O signaling pathway
+            N01909  Transport of calcium, P2RX
+            N01911  Transport of ATP, SLC17A9
+            N01913  Melanocortin receptor signaling, MSH
+            N01914  Melanocortin receptor signaling, AgRP
+            N01915  Tachykinin receptor signaling
+            N01920  Transport of norepinephrine into neuron
+DRUG        D13135  Deupsilocin besylate (USAN)
+            D13136  Deupsilocin (USAN/INN)
+ORGANISM    Homo sapiens (human) [GN:hsa]
+GENE        10681  GNB5; G protein subunit beta 5 [KO:K04539]
+            107  ADCY1; adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1]
+            108  ADCY2; adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1]
+            109  ADCY3; adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1]
+            1103  CHAT; choline O-acetyltransferase [KO:K00623] [EC:2.3.1.6]
+            11054  OGFR; opioid growth factor receptor [KO:K27951]
+            111  ADCY5; adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1]
+            112  ADCY6; adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1]
+            11255  HRH3; histamine receptor H3 [KO:K04151]
+            1128  CHRM1; cholinergic receptor muscarinic 1 [KO:K04129]
+            1129  CHRM2; cholinergic receptor muscarinic 2 [KO:K04130]
+            113  ADCY7; adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1]
+            1131  CHRM3; cholinergic receptor muscarinic 3 [KO:K04131]
+            1132  CHRM4; cholinergic receptor muscarinic 4 [KO:K04132]
+            1133  CHRM5; cholinergic receptor muscarinic 5 [KO:K04133]
+            1136  CHRNA3; cholinergic receptor nicotinic alpha 3 subunit [KO:K04805]
+            1137  CHRNA4; cholinergic receptor nicotinic alpha 4 subunit [KO:K04806]
+            1139  CHRNA7; cholinergic receptor nicotinic alpha 7 subunit [KO:K04809]
+            114  ADCY8; adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1]
+            1141  CHRNB2; cholinergic receptor nicotinic beta 2 subunit [KO:K04813]
+            1143  CHRNB4; cholinergic receptor nicotinic beta 4 subunit [KO:K04815]
+            115  ADCY9; adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1]
+            116443  GRIN3A; glutamate ionotropic receptor NMDA type subunit 3A [KO:K05213]
+            116444  GRIN3B; glutamate ionotropic receptor NMDA type subunit 3B [KO:K05214]
+            134  ADORA1; adenosine A1 receptor [KO:K04265]
+            135  ADORA2A; adenosine A2a receptor [KO:K04266]
+            136  ADORA2B; adenosine A2b receptor [KO:K04267]
+            140  ADORA3; adenosine A3 receptor [KO:K04268]
+            140679  SLC32A1; solute carrier family 32 member 1 [KO:K15015]
+            146  ADRA1D; adrenoceptor alpha 1D [KO:K04137]
+            147  ADRA1B; adrenoceptor alpha 1B [KO:K04136]
+            148  ADRA1A; adrenoceptor alpha 1A [KO:K04135]
+            150  ADRA2A; adrenoceptor alpha 2A [KO:K04138]
+            151  ADRA2B; adrenoceptor alpha 2B [KO:K04139]
+            152  ADRA2C; adrenoceptor alpha 2C [KO:K04140]
+            153  ADRB1; adrenoceptor beta 1 [KO:K04141]
+            154  ADRB2; adrenoceptor beta 2 [KO:K04142]
+            170572  HTR3C; 5-hydroxytryptamine receptor 3C [KO:K04819]
+            181  AGRP; agouti related neuropeptide [KO:K05231]
+            1812  DRD1; dopamine receptor D1 [KO:K04144]
+            1813  DRD2; dopamine receptor D2 [KO:K04145]
+            1814  DRD3; dopamine receptor D3 [KO:K04146]
+            1815  DRD4; dopamine receptor D4 [KO:K04147]
+            1816  DRD5; dopamine receptor D5 [KO:K05840]
+            196883  ADCY4; adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1]
+            200909  HTR3D; 5-hydroxytryptamine receptor 3D [KO:K04819]
+            200959  GABRR3; gamma-aminobutyric acid type A receptor subunit rho3 [KO:K05190]
+            22953  P2RX2; purinergic receptor P2X 2 [KO:K05216]
+            23236  PLCB1; phospholipase C beta 1 [KO:K05858] [EC:3.1.4.11]
+            246213  SLC17A8; solute carrier family 17 member 8 [KO:K12302]
+            2550  GABBR1; gamma-aminobutyric acid type B receptor subunit 1 [KO:K04615]
+            255061  TAC4; tachykinin precursor 4 [KO:K05241]
+            2554  GABRA1; gamma-aminobutyric acid type A receptor subunit alpha1 [KO:K05175]
+            2555  GABRA2; gamma-aminobutyric acid type A receptor subunit alpha2 [KO:K05175]
+            2556  GABRA3; gamma-aminobutyric acid type A receptor subunit alpha3 [KO:K05175]
+            2557  GABRA4; gamma-aminobutyric acid type A receptor subunit alpha4 [KO:K05175]
+            2558  GABRA5; gamma-aminobutyric acid type A receptor subunit alpha5 [KO:K05175]
+            2559  GABRA6; gamma-aminobutyric acid type A receptor subunit alpha6 [KO:K05175]
+            2560  GABRB1; gamma-aminobutyric acid type A receptor subunit beta1 [KO:K05181]
+            2561  GABRB2; gamma-aminobutyric acid type A receptor subunit beta2 [KO:K05181]
+            2562  GABRB3; gamma-aminobutyric acid type A receptor subunit beta3 [KO:K05181]
+            2563  GABRD; gamma-aminobutyric acid type A receptor subunit delta [KO:K05184]
+            2564  GABRE; gamma-aminobutyric acid type A receptor subunit epsilon [KO:K05185]
+            2565  GABRG1; gamma-aminobutyric acid type A receptor subunit gamma1 [KO:K05186]
+            2566  GABRG2; gamma-aminobutyric acid type A receptor subunit gamma2 [KO:K05186]
+            2567  GABRG3; gamma-aminobutyric acid type A receptor subunit gamma3 [KO:K05186]
+            2568  GABRP; gamma-aminobutyric acid type A receptor subunit pi [KO:K05189]
+            2569  GABRR1; gamma-aminobutyric acid type A receptor subunit rho1 [KO:K05190]
+            2570  GABRR2; gamma-aminobutyric acid type A receptor subunit rho2 [KO:K05190]
+            2741  GLRA1; glycine receptor alpha 1 [KO:K05193]
+            2743  GLRB; glycine receptor beta [KO:K05196]
+            2767  GNA11; G protein subunit alpha 11 [KO:K04635]
+            2770  GNAI1; G protein subunit alpha i1 [KO:K04630]
+            2771  GNAI2; G protein subunit alpha i2 [KO:K04630]
+            2773  GNAI3; G protein subunit alpha i3 [KO:K04630]
+            2774  GNAL; G protein subunit alpha L [KO:K04633]
+            2775  GNAO1; G protein subunit alpha o1 [KO:K04534]
+            2776  GNAQ; G protein subunit alpha q [KO:K04634]
+            2778  GNAS; GNAS complex locus [KO:K04632]
+            2782  GNB1; G protein subunit beta 1 [KO:K04536]
+            2783  GNB2; G protein subunit beta 2 [KO:K04537]
+            2784  GNB3; G protein subunit beta 3 [KO:K07825]
+            2785  GNG3; G protein subunit gamma 3 [KO:K04540]
+            2786  GNG4; G protein subunit gamma 4 [KO:K04541]
+            2787  GNG5; G protein subunit gamma 5 [KO:K04542]
+            2788  GNG7; G protein subunit gamma 7 [KO:K04543]
+            2790  GNG10; G protein subunit gamma 10 [KO:K04545]
+            2791  GNG11; G protein subunit gamma 11 [KO:K04546]
+            2792  GNGT1; G protein subunit gamma transducin 1 [KO:K04548]
+            2793  GNGT2; G protein subunit gamma transducin 2 [KO:K04549]
+            285242  HTR3E; 5-hydroxytryptamine receptor 3E [KO:K04819]
+            2890  GRIA1; glutamate ionotropic receptor AMPA type subunit 1 [KO:K05197]
+            2891  GRIA2; glutamate ionotropic receptor AMPA type subunit 2 [KO:K05198]
+            2892  GRIA3; glutamate ionotropic receptor AMPA type subunit 3 [KO:K05199]
+            2893  GRIA4; glutamate ionotropic receptor AMPA type subunit 4 [KO:K05200]
+            2897  GRIK1; glutamate ionotropic receptor kainate type subunit 1 [KO:K05201]
+            2898  GRIK2; glutamate ionotropic receptor kainate type subunit 2 [KO:K05202]
+            2899  GRIK3; glutamate ionotropic receptor kainate type subunit 3 [KO:K05203]
+            2900  GRIK4; glutamate ionotropic receptor kainate type subunit 4 [KO:K05204]
+            2901  GRIK5; glutamate ionotropic receptor kainate type subunit 5 [KO:K05205]
+            2902  GRIN1; glutamate ionotropic receptor NMDA type subunit 1 [KO:K05208]
+            2903  GRIN2A; glutamate ionotropic receptor NMDA type subunit 2A [KO:K05209]
+            2904  GRIN2B; glutamate ionotropic receptor NMDA type subunit 2B [KO:K05210]
+            2905  GRIN2C; glutamate ionotropic receptor NMDA type subunit 2C [KO:K05211]
+            2906  GRIN2D; glutamate ionotropic receptor NMDA type subunit 2D [KO:K05212]
+            2911  GRM1; glutamate metabotropic receptor 1 [KO:K04603]
+            2912  GRM2; glutamate metabotropic receptor 2 [KO:K04605]
+            2913  GRM3; glutamate metabotropic receptor 3 [KO:K04606]
+            2914  GRM4; glutamate metabotropic receptor 4 [KO:K04607]
+            2915  GRM5; glutamate metabotropic receptor 5 [KO:K04604]
+            2916  GRM6; glutamate metabotropic receptor 6 [KO:K04608]
+            2917  GRM7; glutamate metabotropic receptor 7 [KO:K04609]
+            2918  GRM8; glutamate metabotropic receptor 8 [KO:K04610]
+            3269  HRH1; histamine receptor H1 [KO:K04149]
+            3274  HRH2; histamine receptor H2 [KO:K04150]
+            3350  HTR1A; 5-hydroxytryptamine receptor 1A [KO:K04153]
+            3351  HTR1B; 5-hydroxytryptamine receptor 1B [KO:K04153]
+            3352  HTR1D; 5-hydroxytryptamine receptor 1D [KO:K04153]
+            3354  HTR1E; 5-hydroxytryptamine receptor 1E [KO:K04153]
+            3355  HTR1F; 5-hydroxytryptamine receptor 1F [KO:K04153]
+            3356  HTR2A; 5-hydroxytryptamine receptor 2A [KO:K04157]
+            3357  HTR2B; 5-hydroxytryptamine receptor 2B [KO:K04157]
+            3358  HTR2C; 5-hydroxytryptamine receptor 2C [KO:K04157]
+            3359  HTR3A; 5-hydroxytryptamine receptor 3A [KO:K04819]
+            3360  HTR4; 5-hydroxytryptamine receptor 4 [KO:K04160]
+            3361  HTR5A; 5-hydroxytryptamine receptor 5A [KO:K04161]
+            3362  HTR6; 5-hydroxytryptamine receptor 6 [KO:K04162]
+            3363  HTR7; 5-hydroxytryptamine receptor 7 [KO:K04163]
+            4159  MC3R; melanocortin 3 receptor [KO:K04201]
+            4160  MC4R; melanocortin 4 receptor [KO:K04202]
+            43  ACHE; acetylcholinesterase (Yt blood group) [KO:K01049] [EC:3.1.1.7]
+            4985  OPRD1; opioid receptor delta 1 [KO:K04213]
+            4986  OPRK1; opioid receptor kappa 1 [KO:K04214]
+            4987  OPRL1; opioid related nociceptin receptor 1 [KO:K04216]
+            4988  OPRM1; opioid receptor mu 1 [KO:K04215]
+            5023  P2RX1; purinergic receptor P2X 1 [KO:K05215]
+            5024  P2RX3; purinergic receptor P2X 3 [KO:K05217]
+            5025  P2RX4; purinergic receptor P2X 4 [KO:K05218]
+            5026  P2RX5; purinergic receptor P2X 5 [KO:K05219]
+            5028  P2RY1; purinergic receptor P2Y1 [KO:K04270]
+            5029  P2RY2; purinergic receptor P2Y2 [KO:K04269]
+            5030  P2RY4; pyrimidinergic receptor P2Y4 [KO:K04271]
+            5031  P2RY6; pyrimidinergic receptor P2Y6 [KO:K04272]
+            5032  P2RY11; purinergic receptor P2Y11 [KO:K08387]
+            5173  PDYN; prodynorphin [KO:K15840]
+            51764  GNG13; G protein subunit gamma 13 [KO:K04547]
+            5179  PENK; proenkephalin [KO:K18832]
+            5330  PLCB2; phospholipase C beta 2 [KO:K05858] [EC:3.1.4.11]
+            5331  PLCB3; phospholipase C beta 3 [KO:K05858] [EC:3.1.4.11]
+            5332  PLCB4; phospholipase C beta 4 [KO:K05858] [EC:3.1.4.11]
+            5368  PNOC; prepronociceptin [KO:K25696]
+            53829  P2RY13; purinergic receptor P2Y13 [KO:K08388]
+            54331  GNG2; G protein subunit gamma 2 [KO:K07826]
+            5443  POMC; proopiomelanocortin [KO:K05228]
+            5566  PRKACA; protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11]
+            5567  PRKACB; protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11]
+            5568  PRKACG; protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11]
+            5578  PRKCA; protein kinase C alpha [KO:K02677] [EC:2.7.11.13]
+            5579  PRKCB; protein kinase C beta [KO:K19662] [EC:2.7.11.13]
+            5582  PRKCG; protein kinase C gamma [KO:K19663] [EC:2.7.11.13]
+            55879  GABRQ; gamma-aminobutyric acid type A receptor subunit theta [KO:K05192]
+            55970  GNG12; G protein subunit gamma 12 [KO:K04347]
+            57030  SLC17A7; solute carrier family 17 member 7 [KO:K12302]
+            57084  SLC17A6; solute carrier family 17 member 6 [KO:K12302]
+            59345  GNB4; G protein subunit beta 4 [KO:K04538]
+            60482  SLC5A7; solute carrier family 5 member 7 [KO:K14387]
+            63910  SLC17A9; solute carrier family 17 member 9 [KO:K12303]
+            64805  P2RY12; purinergic receptor P2Y12 [KO:K04298]
+            6505  SLC1A1; solute carrier family 1 member 1 [KO:K05612]
+            6506  SLC1A2; solute carrier family 1 member 2 [KO:K05613]
+            6507  SLC1A3; solute carrier family 1 member 3 [KO:K05614]
+            6511  SLC1A6; solute carrier family 1 member 6 [KO:K05617]
+            6512  SLC1A7; solute carrier family 1 member 7 [KO:K05618]
+            6529  SLC6A1; solute carrier family 6 member 1 [KO:K05034]
+            6530  SLC6A2; solute carrier family 6 member 2 [KO:K05035]
+            6531  SLC6A3; solute carrier family 6 member 3 [KO:K05036]
+            6532  SLC6A4; solute carrier family 6 member 4 [KO:K05037]
+            6536  SLC6A9; solute carrier family 6 member 9 [KO:K05038]
+            6538  SLC6A11; solute carrier family 6 member 11 [KO:K05044]
+            6539  SLC6A12; solute carrier family 6 member 12 [KO:K05045]
+            6540  SLC6A13; solute carrier family 6 member 13 [KO:K05046]
+            6570  SLC18A1; solute carrier family 18 member A1 [KO:K08155]
+            6571  SLC18A2; solute carrier family 18 member A2 [KO:K08155]
+            6572  SLC18A3; solute carrier family 18 member A3 [KO:K14636]
+            6863  TAC1; tachykinin precursor 1 [KO:K05239]
+            6865  TACR2; tachykinin receptor 2 [KO:K04223]
+            6866  TAC3; tachykinin precursor 3 [KO:K05240]
+            6869  TACR1; tachykinin receptor 1 [KO:K04222]
+            6870  TACR3; tachykinin receptor 3 [KO:K04224]
+            79627  OGFRL1; opioid growth factor receptor like 1 [KO:K27951]
+            8001  GLRA3; glycine receptor alpha 3 [KO:K05195]
+            8973  CHRNA6; cholinergic receptor nicotinic alpha 6 subunit [KO:K04808]
+            89832  CHRFAM7A; CHRNA7 (exons 5-10) and FAM7A (exons A-E) fusion [KO:K04809]
+            9127  P2RX6; purinergic receptor P2X 6 [KO:K05221]
+            9152  SLC6A5; solute carrier family 6 member 5 [KO:K05038]
+            9177  HTR3B; 5-hydroxytryptamine receptor 3B [KO:K04819]
+            94235  GNG8; G protein subunit gamma 8 [KO:K04544]
+            9568  GABBR2; gamma-aminobutyric acid type B receptor subunit 2 [KO:K04615]
+            9934  P2RY14; purinergic receptor P2Y14 [KO:K04299]
+COMPOUND    C00002  ATP
+            C00008  ADP
+            C00015  UDP
+            C00025  L-Glutamate
+            C00029  UDP-glucose
+            C00037  Glycine
+            C00075  UTP
+            C00076  Calcium cation
+            C00114  Choline
+            C00165  Diacylglycerol
+            C00212  Adenosine
+            C00334  4-Aminobutanoate
+            C00388  Histamine
+            C00547  L-Noradrenaline
+            C00575  3',5'-Cyclic AMP
+            C00698  Cl-
+            C00780  Serotonin
+            C00788  L-Adrenaline
+            C01330  Sodium cation
+            C01996  Acetylcholine
+            C02210  beta-Endorphin
+            C02758  alpha-Melanotropin
+            C03758  Dopamine
+            C11684  MET-enkephalin
+            C15871  Nocistatin
+            C16039  alpha-Neoendorphin
+            C16040  beta-Neoendorphin
+            C16041  Leu-enkephalin
+            C16044  Nociceptin
+            C16094  Substance P
+            C16095  Neuropeptide K
+            C16096  Neuropeptide gamma
+            C16097  Neurokinin A
+            C16098  Neurokinin B
+            C16099  Endokinin A/B
+            C16100  Endokinin C
+            C16101  Endokinin D
+            C16103  Agouti related protein (87-132)
+            C16136  beta-Melanotropin
+            C16137  gamma-Melanotropin
+REFERENCE   PMID:37385351
+  AUTHORS   Nimgampalle M, Chakravarthy H, Sharma S, Shree S, Bhat AR, Pradeepkiran JA, Devanathan V
+  TITLE     Neurotransmitter systems in the etiology of major neurological disorders: Emerging insights and therapeutic implications.
+  JOURNAL   Ageing Res Rev 89:101994 (2023)
+            DOI:10.1016/j.arr.2023.101994
+REFERENCE   PMID:31726793
+  AUTHORS   Malik AR, Willnow TE
+  TITLE     Excitatory Amino Acid Transporters in Physiology and Disorders of the Central Nervous System.
+  JOURNAL   Int J Mol Sci 20:ijms20225671 (2019)
+            DOI:10.3390/ijms20225671
+REFERENCE   PMID:25116141
+  AUTHORS   Higley MJ
+  TITLE     Localized GABAergic inhibition of dendritic Ca(2+) signalling.
+  JOURNAL   Nat Rev Neurosci 15:567-72 (2014)
+            DOI:10.1038/nrn3803
+REFERENCE   PMID:12888801
+  AUTHORS   Brambilla P, Perez J, Barale F, Schettini G, Soares JC
+  TITLE     GABAergic dysfunction in mood disorders.
+  JOURNAL   Mol Psychiatry 8:721-37, 715 (2003)
+            DOI:10.1038/sj.mp.4001362
+REFERENCE   PMID:35055019
+  AUTHORS   Shimizu-Okabe C, Kobayashi S, Kim J, Kosaka Y, Sunagawa M, Okabe A, Takayama C
+  TITLE     Developmental Formation of the GABAergic and Glycinergic Networks in the Mouse Spinal Cord.
+  JOURNAL   Int J Mol Sci 23:ijms23020834 (2022)
+            DOI:10.3390/ijms23020834
+REFERENCE   PMID:33924731
+  AUTHORS   Wang Y, Tan B, Wang Y, Chen Z
+  TITLE     Cholinergic Signaling, Neural Excitability, and Epilepsy.
+  JOURNAL   Molecules 26:molecules26082258 (2021)
+            DOI:10.3390/molecules26082258
+REFERENCE   PMID:36757901
+  AUTHORS   Channer B, Matt SM, Nickoloff-Bybel EA, Pappa V, Agarwal Y, Wickman J, Gaskill PJ
+  TITLE     Dopamine, Immunity, and Disease.
+  JOURNAL   Pharmacol Rev 75:62-158 (2023)
+            DOI:10.1124/pharmrev.122.000618
+REFERENCE   PMID:25037203
+  AUTHORS   Savica R, Benarroch EE
+  TITLE     Dopamine receptor signaling in the forebrain: recent insights and clinical implications.
+  JOURNAL   Neurology 83:758-67 (2014)
+            DOI:10.1212/WNL.0000000000000719
+REFERENCE   PMID:33651238
+  AUTHORS   Pourhamzeh M, Moravej FG, Arabi M, Shahriari E, Mehrabi S, Ward R, Ahadi R, Joghataei MT
+  TITLE     The Roles of Serotonin in Neuropsychiatric Disorders.
+  JOURNAL   Cell Mol Neurobiol 42:1671-1692 (2022)
+            DOI:10.1007/s10571-021-01064-9
+REFERENCE   PMID:35492402
+  AUTHORS   Chhatar S, Lal G
+  TITLE     Role of adrenergic receptor signalling in neuroimmune communication.
+  JOURNAL   Curr Res Immunol 2:202-217 (2021)
+            DOI:10.1016/j.crimmu.2021.11.001
+REFERENCE   PMID:39337347
+  AUTHORS   Szukiewicz D
+  TITLE     Histaminergic System Activity in the Central Nervous System: The Role in Neurodevelopmental and Neurodegenerative Disorders.
+  JOURNAL   Int J Mol Sci 25:ijms25189859 (2024)
+            DOI:10.3390/ijms25189859
+REFERENCE   PMID:33907179
+  AUTHORS   Huang Z, Xie N, Illes P, Di Virgilio F, Ulrich H, Semyanov A, Verkhratsky A, Sperlagh B, Yu SG, Huang C, Tang Y
+  TITLE     From purines to purinergic signalling: molecular functions and human diseases.
+  JOURNAL   Signal Transduct Target Ther 6:162 (2021)
+            DOI:10.1038/s41392-021-00553-z
+REFERENCE   PMID:16715052
+  AUTHORS   Fields RD, Burnstock G
+  TITLE     Purinergic signalling in neuron-glia interactions.
+  JOURNAL   Nat Rev Neurosci 7:423-36 (2006)
+            DOI:10.1038/nrn1928
+REFERENCE   PMID:26880796
+  AUTHORS   Cawley NX, Li Z, Loh YP
+  TITLE     60 YEARS OF POMC: Biosynthesis, trafficking, and secretion of pro-opiomelanocortin-derived peptides.
+  JOURNAL   J Mol Endocrinol 56:T77-97 (2016)
+            DOI:10.1530/JME-15-0323
+REFERENCE   PMID:28360832
+  AUTHORS   Butler AA, Girardet C, Mavrikaki M, Trevaskis JL, Macarthur H, Marks DL, Farr SA
+  TITLE     A Life without Hunger: The Ups (and Downs) to Modulating Melanocortin-3 Receptor Signaling.
+  JOURNAL   Front Neurosci 11:128 (2017)
+            DOI:10.3389/fnins.2017.00128
+REFERENCE   PMID:26956246
+  AUTHORS   Toll L, Bruchas MR, Calo' G, Cox BM, Zaveri NT
+  TITLE     Nociceptin/Orphanin FQ Receptor Structure, Signaling, Ligands, Functions, and Interactions with Opioid Systems.
+  JOURNAL   Pharmacol Rev 68:419-57 (2016)
+            DOI:10.1124/pr.114.009209
+REFERENCE   PMID:36589829
+  AUTHORS   Campo A, Dufour S, Rousseau K
+  TITLE     Tachykinins, new players in the control of reproduction and food intake: A comparative review in mammals and teleosts.
+  JOURNAL   Front Endocrinol (Lausanne) 13:1056939 (2022)
+            DOI:10.3389/fendo.2022.1056939
+REL_PATHWAY hsa04080  Neuroactive ligand-receptor interaction
+            hsa04724  Glutamatergic synapse
+            hsa04725  Cholinergic synapse
+            hsa04726  Serotonergic synapse
+            hsa04727  GABAergic synapse
+            hsa04728  Dopaminergic synapse
+KO_PATHWAY  ko04082
+///
