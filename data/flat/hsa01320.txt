@@ -1,7 +1,0 @@
-ENTRY       hsa01320          Overview  Pathway
-NAME        Sulfur cycle - Homo sapiens (human)
-DESCRIPTION Sulfur is one of the six most common chemical elements CHNOPS that constitute living organisms. This map shows a biogeochemical cycle of sulfur compounds and how different microorganisms are responsible for chemical transformations under different environments including atmospheric, hydrospheric and lithospheric environments. Details of chemical reactions and responsible enzymes are shown in map00920 for Sulfur metabolism. Here chemical transformations are represented by KEGG modules, including sulfur reduction [MD:M00986] [KO:K16952] from elemental sulfur to hydrogen sulfide by sulfur-reducing bacteria and archaea, sulfide oxidation [MD:M00985] from hydrogen sulfide to elemental sulfur by sulfur-oxidizing phototrophs, sulfur oxidataion [MD:M00595 M00984] from thiosulfate to sulfate by sulfur-oxidizing chemotrophs, dissimilatory sulfate reduction [MD:M00596] by sulfate-reducing bacteria and archaea, and assimilatory sulfate reduction [MD:M00176 M00987] by both prokaryotes and eukaryotes excluding animals.
-PATHWAY_MAP hsa01320  Sulfur cycle
-ORGANISM    Homo sapiens (human) [GN:hsa]
-KO_PATHWAY  ko01320
-///
